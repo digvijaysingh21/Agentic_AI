@@ -3,3 +3,9 @@ ipykernel
 python-dotenv
 langchain-community
 pypdf
+# beautifulsoup4 we use bs4
+bs4
+# arxiv
+arxiv==1.4.8
+pymupdf
+wikipedia
